@@ -4,7 +4,7 @@ When a dynamic memory is allocated on the heap in C++, it is not freed automatic
 
 # Implementation Details:
 
-I implemented a wrapper around the following functions:
+I implemented a wrapper around the following functions:\
 ✔️ malloc\
 ✔️ calloc\
 ✔️ realloc\
